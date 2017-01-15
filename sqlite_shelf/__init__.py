@@ -1,0 +1,1 @@
+from sqlite_shelf.sqliteshelf import SqliteTable
